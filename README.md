@@ -46,9 +46,9 @@ Fork this repository with an appropriate name. You can name the repository same 
 1. Go to forked repository and open `public/manifest.json` file.
 
 2. The file looks something like the following:
-   https://github.com/armaan-kumar/blogger-pwa-cdn/blob/a4753c91d7eb9c552732f3ef744540bcbe159950/public/manifest.json#L1-L122
+   [@kumardeo/blogger-pwa-cdn/manifest.json](https://github.com/kumardeo/blogger-pwa-cdn/manifest.json)
 
-3. Replace the blog name, urls, etc. with your blog url.
+3. Replace the blog name, urls, etc. with appropriate values.
    * You can also add your custom `screenshots`, `icons`, etc. Refer to [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/Manifest).
 
 ### 5. Edit Template XML
@@ -142,6 +142,11 @@ You can build a PWA app using it but you can't do the following since it require
 
 2. **Push Notification**: You cannot use third party Push Notification services (i.e. OneSignal) to send push notifications from same domain of the app.
    * Push notifications are possible with Service Worker.
+
+## Conclusion
+
+⭐ Star [this repository](https://github.com/kumardeo/blogger-pwa-cdn) if you find it useful and working method.  
+If you are facing any problem, feel free to open an issue.
 
 ## License
 
