@@ -46,7 +46,7 @@ Fork this repository with an appropriate name. You can name the repository same 
 1. Go to forked repository and open `public/manifest.json` file.
 
 2. The file looks something like the following:
-   [@kumardeo/blogger-pwa-cdn/manifest.json](https://github.com/kumardeo/blogger-pwa-cdn/manifest.json)
+   [@kumardeo/blogger-pwa-cdn/manifest.json](https://github.com/kumardeo/blogger-pwa-cdn/blob/main/public/manifest.json)
 
 3. Replace the blog name, urls, etc. with appropriate values.
    * You can also add your custom `screenshots`, `icons`, etc. Refer to [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/Manifest).
