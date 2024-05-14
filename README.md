@@ -129,7 +129,7 @@ You may want to add a custom button on your site which shows the installation pr
 
 ## Purging Cache
 
-JsDelivr caches files on their server so if you update any file on GitHub, it will be updated on the server instantly.  
+JsDelivr caches files on their server so if you update any file on GitHub, it will not be updated on the server instantly.  
 
 In that case you manually need to tell JsDelivr to purge cache. You can use this JsDelivr's [Purge Cache Tool](https://www.jsdelivr.com/tools/purge) to do so.
 
